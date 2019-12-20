@@ -1,2 +1,2 @@
 # hello-world
-this is a tutorial exercize repository
+mai fare tu stesso quello che riesci a far fare a qualcun altro
